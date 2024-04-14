@@ -19,4 +19,4 @@ Features of Admin
 3. User Management
 4. Category/ Sub Category Creation and many more
 
-Deployed Link - https://onlineshoppingportal-lakshay.000webhostapp.com/
+Deployed Link - https://onlineshoppingwebsite-lakshay.000webhostapp.com/
